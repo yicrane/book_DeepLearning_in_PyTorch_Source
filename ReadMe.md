@@ -1,5 +1,7 @@
 ## 深度学习原理与 PyTorch 实战 书籍源码
 
+### 测试通过jupyterlab修改后，由github desktop更新
+
 ![](./cover_page.png)
 
 [本书的图灵社区主页](http://www.ituring.com.cn/book/2609)
